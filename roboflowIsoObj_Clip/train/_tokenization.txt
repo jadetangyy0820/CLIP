@@ -1,0 +1,8 @@
+An example picture from the Sunnyvale6 dataset depicting a almond
+An example picture from the Sunnyvale6 dataset depicting a banana
+An example picture from the Sunnyvale6 dataset depicting a butter
+An example picture from the Sunnyvale6 dataset depicting a coke
+An example picture from the Sunnyvale6 dataset depicting a dietcoke
+An example picture from the Sunnyvale6 dataset depicting a egg
+An example picture from the Sunnyvale6 dataset depicting no items6s
+An example picture from the Sunnyvale6 dataset depicting a sugar
